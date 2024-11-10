@@ -1,0 +1,23 @@
+.formContainer {
+  margin: 2rem 0;
+}
+
+.form {
+  display: flex;
+  gap: 1rem;
+}
+
+.input {
+  padding: 0.5rem;
+  font-size: 1rem;
+  width: 200px;
+}
+
+.button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  background-color: #ffd700;
+  color: #000;
+  border: none;
+  cursor: pointer;
+}
